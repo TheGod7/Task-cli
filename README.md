@@ -26,7 +26,7 @@ To clone a Git repository, follow these steps:
 3. Run the following command to clone the repository:
 
 ```shell
-git clone <REPOSITORY_URL>
+git clone https://github.com/TheGod7/Task-cli 
 ```
 
 Make sure to replace `<REPOSITORY_URL>` with the actual URL of the repository you want to clone.
